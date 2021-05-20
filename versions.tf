@@ -1,7 +1,7 @@
 terraform {
   required_providers {
     infoblox = {
-      source = "example.com/beta/infoblox"
+      source = "example.com/rogercorp"
     }
     null = {
       source = "hashicorp/null"
